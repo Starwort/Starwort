@@ -18,6 +18,8 @@ About me:
 
 If something I do sparks some interest, the best way to reach me is on Discord, ~~Starwort#6129~~ starwort
 
+I'm very bad at remembering to license my projects; any of my projects without a stated licence (either in a `LICENCE` file or project metadata like `Cargo.toml` or `pyproject.toml`, where applicable) should be interpreted as being licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
 If for some reason you feel like throwing money at me, you can do that here:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7L0W18)
