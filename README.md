@@ -2,18 +2,18 @@
 
 About me:
 
-- CompSci student in the UK
+- CompSci graduate in the UK
 - Birthday 29 July
 - Advent of Code enjoyer, typically obtaining several leaderboard spots
-  - [798th (tied) in 2017](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2017.md)
-  - [487th (tied) in 2018](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2018.md)
-  - [78th in 2019](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2019.md) (or [on the official leaderboard page](https://adventofcode.com/2019/leaderboard)) - [Repo](https://github.com/Starwort/advent-of-code-2019)
-  - [101st (tied) in 2020](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2020.md) - [Repo](https://github.com/Starwort/advent-of-code-2020)
-  - [272nd (tied) in 2021](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2021.md) - [Repo](https://github.com/Starwort/advent-of-code-2021)
-  - [189th in 2022](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2022.md) - [Repo](https://github.com/Starwort/advent-of-code-2022)
-  - [111st in 2023](https://github.com/SaiMonYo/Global-Leaderboard-AOC/blob/main/LB_2023.md) - [Repo](https://github.com/Starwort/advent-of-code-2023)
+  - [798th (tied) in 2017](https://benediktwerner.github.io/aoc-leaderboard/#2017)
+  - [487th (tied) in 2018](https://benediktwerner.github.io/aoc-leaderboard/#2018)
+  - [78th in 2019](https://benediktwerner.github.io/aoc-leaderboard/#2019) (or [on the official leaderboard page](https://adventofcode.com/2019/leaderboard)) - [Repo](https://github.com/Starwort/advent-of-code-2019)
+  - [101st (tied) in 2020](https://benediktwerner.github.io/aoc-leaderboard/#2020) - [Repo](https://github.com/Starwort/advent-of-code-2020)
+  - [272nd (tied) in 2021](https://benediktwerner.github.io/aoc-leaderboard/#2021) - [Repo](https://github.com/Starwort/advent-of-code-2021)
+  - [189th in 2022](https://benediktwerner.github.io/aoc-leaderboard/#2022) - [Repo](https://github.com/Starwort/advent-of-code-2022)
+  - [111st in 2023](https://benediktwerner.github.io/aoc-leaderboard/#2023) - [Repo](https://github.com/Starwort/advent-of-code-2023)
+  - [237th (tied) in 2024](https://benediktwerner.github.io/aoc-leaderboard/#2024) - [Repo](https://github.com/Starwort/advent-of-code-2024)
 - Favourite languages: Rust, Python
-- Least favourite language: C++
 - Esolang enjoyer
 - Autistic
 
